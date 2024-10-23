@@ -1,0 +1,8 @@
+{
+    "name": "fcc-music-player",
+    "lockfileVersion": 3,
+    "requires": true,
+    "start": "eleventy --serve",
+    "packages": {}
+  }
+  
